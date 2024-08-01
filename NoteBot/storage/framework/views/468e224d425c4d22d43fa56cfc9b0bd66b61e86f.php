@@ -1,0 +1,1 @@
+<div style="width: 400px; height:400px; background: black; "></div><?php /**PATH C:\xampp\final_year_project\resources\views/naveed.blade.php ENDPATH**/ ?>
